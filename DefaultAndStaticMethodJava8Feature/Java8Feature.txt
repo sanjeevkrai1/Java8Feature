@@ -1,0 +1,14 @@
+
+Java 8 was introduced in 18 March 2018. Major feature in Java8 given below
+
+Features
+	1- Default and static method interfaces 
+	2- Functional Interfaces and Lamda expression
+	3- forEach() method in iterable interface
+	4- Java Stream API on bulk data operation in Collections
+	5- Java Time API
+	6- Collection API improvment
+	7- Concureency API improvment
+	8- Java IO improvements
+	9-  Miscellaneous improvements
+	
