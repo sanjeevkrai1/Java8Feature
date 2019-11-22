@@ -1,7 +1,6 @@
 
 Java 8 was introduced in 18 March 2018. Major feature in Java8 given below
 
-
 Features
 	1- Default and static method interfaces 
 	2- Functional Interfaces and Lamda expression
