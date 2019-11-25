@@ -1,6 +1,4 @@
 package com.java8.defaultinterface;
-
-
 import java.util.Collections;
 import java.util.List;
 

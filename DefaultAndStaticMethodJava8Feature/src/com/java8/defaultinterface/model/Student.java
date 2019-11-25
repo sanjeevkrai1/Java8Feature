@@ -1,4 +1,3 @@
-
 package com.java8.defaultinterface.model;
 
 public class Student implements Comparable<Student> {
